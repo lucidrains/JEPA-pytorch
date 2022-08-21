@@ -5,6 +5,8 @@
 Implementation of <a href="https://openreview.net/forum?id=BZ5a1r-kVsf">JEPA (Joint Embedding Predictive
 Architectures)</a>, Yann Le Cun's vision of how AGI would be built, in Pytorch
 
+<a href="https://www.youtube.com/watch?v=jSdHmImyUjk">Yannic Kilcher explanation</a>
+
 ## Citations
 
 ```bibtex
